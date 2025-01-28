@@ -1,17 +1,7 @@
 {
   "ExpandedNodes": [
-    "",
-    "\\src",
-    "\\src\\app",
-    "\\src\\app\\ui",
-    "\\src\\app\\ui\\pages",
-    "\\src\\app\\ui\\pages\\home",
-    "\\src\\app\\ui\\pages\\home\\home-expertise",
-    "\\src\\app\\ui\\pages\\home\\home-expertise\\expertise-item",
-    "\\src\\app\\ui\\utils",
-    "\\src\\documents",
-    "\\src\\environments"
+    ""
   ],
-  "SelectedNode": "\\src\\app\\ui\\pages\\home\\home.module.ts",
+  "SelectedNode": "\\E:\\Portfolio",
   "PreviewInSolutionExplorer": false
 }
