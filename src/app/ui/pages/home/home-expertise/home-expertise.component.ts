@@ -130,7 +130,8 @@ export class HomeExpertiseComponent implements OnInit {
       "name": "Adobe Photoshop",
       "logo": "assets/img/tools/ps.png",
       "link": "https://www.adobe.com/products/photoshop.html",
-      "tab": "design"
+      "tab": "design",
+      "color": "#001E36",
     },
     //{
     //  "id": "5133",
@@ -162,21 +163,23 @@ export class HomeExpertiseComponent implements OnInit {
       "name": "Logic Apps",
       "logo": "assets/img/tools/logicapps.png",
       "link": "https://azure.microsoft.com/en-us/products/logic-apps",
-      "tab": "android"
+      "tab": "android",
     },
     {
       "id": "9113",
       "name": "PowerBi",
       "logo": "assets/img/tools/powerbi.png",
       "link": "https://www.microsoft.com/en-us/download/details.aspx?id=58494",
-      "tab": "android"
+      "tab": "android",
+      "color": "#F2C80F"
     },
     {
       "id": "9114",
       "name": "Power Apps",
       "logo": "assets/img/tools/powerapps.png",
       "link": "https://www.microsoft.com/en-us/power-platform/products/power-apps",
-      "tab": "android"
+      "tab": "android",
+      "color":"#742774"
     },
     //{
     //  "id": "9115",
@@ -212,7 +215,8 @@ export class HomeExpertiseComponent implements OnInit {
       "name": "VirtualBox",
       "logo": "assets/img/tools/vb.png",
       "link": "https://www.virtualbox.org/wiki/Downloads",
-      "tab": "web"
+      "tab": "web",
+      "color": "#183A61"
     },
 
     {
@@ -220,7 +224,8 @@ export class HomeExpertiseComponent implements OnInit {
       "name": "VMWare",
       "logo": "assets/img/tools/vm.jpeg",
       "link": "https://blogs.vmware.com/workstation/2024/05/vmware-workstation-pro-now-available-free-for-personal-use.html",
-      "tab": "web"
+      "tab": "web",
+      "color":"#607078"
     },
     //{
     //  "id": "8105",
@@ -265,6 +270,7 @@ export class HomeExpertiseComponent implements OnInit {
       "logo": "assets/img/tools/.net.png",
       "link": "https://dotnet.microsoft.com/en-us/download/dotnet-framework",
       "tab": "web",
+      "color":"#512BD4"
     },
 
     // backend
@@ -274,7 +280,8 @@ export class HomeExpertiseComponent implements OnInit {
       "name": "SSMS",
       "logo": "assets/img/tools/sql.png",
       "link": "https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16",
-      "tab": "back-end"
+      "tab": "back-end",
+      "color":"#A91D22"
     },
     //{
     //  "id": "7122",
@@ -299,7 +306,7 @@ export class HomeExpertiseComponent implements OnInit {
       "name": "Firebase",
       "logo": "assets/img/tools/firebase.svg",
       "link": "https://firebase.google.com/",
-      "tab": "cloud"
+      "tab": "cloud",
     },
 
     {
@@ -307,7 +314,8 @@ export class HomeExpertiseComponent implements OnInit {
       "name": "Azure",
       "logo": "assets/img/tools/azure.png",
       "link": "https://azure.microsoft.com",
-      "tab": "cloud"
+      "tab": "cloud",
+      "color":"#0078D4"
     },
 
     //{
