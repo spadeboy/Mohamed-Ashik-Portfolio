@@ -3,8 +3,32 @@
   "WorkspaceRootPath": "E:\\Spade\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Spade\\src\\app\\ui\\container\\main-container\\main-container.component.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\ui\\container\\main-container\\main-container.component.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Spade\\src\\styles.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\styles.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Spade\\src\\app\\ui\\container\\main-container\\main-container.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\ui\\container\\main-container\\main-container.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Spade\\src\\app\\ui\\pages\\home\\home-about\\home-about.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\ui\\pages\\home\\home-about\\home-about.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Spade\\package-lock.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:package-lock.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Spade\\angular.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:angular.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Spade\\src\\app\\ui\\container\\main-container\\main-container.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\ui\\container\\main-container\\main-container.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Spade\\docs\\508.d7dc968ef08a4bf7.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
@@ -15,14 +39,6 @@
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:docs\\polyfills.ea32b2f550b3d600.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Spade\\docs\\main.b8dccf508050a08c.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:docs\\main.b8dccf508050a08c.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Spade\\package-lock.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:package-lock.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Spade\\src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -31,20 +47,12 @@
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:docs\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Spade\\angular.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:angular.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Spade\\src\\app\\ui\\pages\\home\\home-expertise\\home-expertise.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\ui\\pages\\home\\home-expertise\\home-expertise.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Spade\\docs\\assets\\img\\logos\\MA.svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:docs\\assets\\img\\logos\\MA.svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Spade\\src\\app\\ui\\container\\main-container\\main-container.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\ui\\container\\main-container\\main-container.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Spade\\src\\app\\ui\\pages\\home\\home-expertise\\home-expertise.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -78,19 +86,84 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "home-about.component.html",
               "DocumentMoniker": "E:\\Spade\\src\\app\\ui\\pages\\home\\home-about\\home-about.component.html",
               "RelativeDocumentMoniker": "src\\app\\ui\\pages\\home\\home-about\\home-about.component.html",
               "ToolTip": "E:\\Spade\\src\\app\\ui\\pages\\home\\home-about\\home-about.component.html",
               "RelativeToolTip": "src\\app\\ui\\pages\\home\\home-about\\home-about.component.html",
-              "ViewState": "AgIAAFsAAAAAAAAAAAAUwHEAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAkwCEAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-01-28T10:55:00.979Z",
+              "WhenOpened": "2025-01-28T13:15:03.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main-container.component.scss",
+              "DocumentMoniker": "E:\\Spade\\src\\app\\ui\\container\\main-container\\main-container.component.scss",
+              "RelativeDocumentMoniker": "src\\app\\ui\\container\\main-container\\main-container.component.scss",
+              "ToolTip": "E:\\Spade\\src\\app\\ui\\container\\main-container\\main-container.component.scss",
+              "RelativeToolTip": "src\\app\\ui\\container\\main-container\\main-container.component.scss",
+              "ViewState": "AgIAAHAAAAAAAAAAAAAAAH8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002663|",
+              "WhenOpened": "2025-01-28T12:51:06.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "main-container.component.ts",
+              "DocumentMoniker": "E:\\Spade\\src\\app\\ui\\container\\main-container\\main-container.component.ts",
+              "RelativeDocumentMoniker": "src\\app\\ui\\container\\main-container\\main-container.component.ts",
+              "ToolTip": "E:\\Spade\\src\\app\\ui\\container\\main-container\\main-container.component.ts",
+              "RelativeToolTip": "src\\app\\ui\\container\\main-container\\main-container.component.ts",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB0AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-01-28T12:47:19.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "main-container.component.html",
+              "DocumentMoniker": "E:\\Spade\\src\\app\\ui\\container\\main-container\\main-container.component.html",
+              "RelativeDocumentMoniker": "src\\app\\ui\\container\\main-container\\main-container.component.html",
+              "ToolTip": "E:\\Spade\\src\\app\\ui\\container\\main-container\\main-container.component.html",
+              "RelativeToolTip": "src\\app\\ui\\container\\main-container\\main-container.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-01-28T09:53:48.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "angular.json",
+              "DocumentMoniker": "E:\\Spade\\angular.json",
+              "RelativeDocumentMoniker": "angular.json",
+              "ToolTip": "E:\\Spade\\angular.json",
+              "RelativeToolTip": "angular.json",
+              "ViewState": "AgIAAFEAAAAAAAAAAAASwGQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-28T10:17:24.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "styles.scss",
+              "DocumentMoniker": "E:\\Spade\\src\\styles.scss",
+              "RelativeDocumentMoniker": "src\\styles.scss",
+              "ToolTip": "E:\\Spade\\src\\styles.scss",
+              "RelativeToolTip": "src\\styles.scss",
+              "ViewState": "AgIAAHkAAAAAAAAAAAAIwIkAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002663|",
+              "WhenOpened": "2025-01-28T12:36:42.148Z",
               "EditorCaption": ""
             },
             {
@@ -101,14 +174,14 @@
               "RelativeDocumentMoniker": "package-lock.json",
               "ToolTip": "E:\\Spade\\package-lock.json",
               "RelativeToolTip": "package-lock.json",
-              "ViewState": "AgIAABpkAAAAAAAAAAASwCdkAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAABpkAAAAAAAAAAASwCdkAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-01-28T10:23:16.06Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "MA.svg",
               "DocumentMoniker": "E:\\Spade\\docs\\assets\\img\\logos\\MA.svg",
               "RelativeDocumentMoniker": "docs\\assets\\img\\logos\\MA.svg",
@@ -121,7 +194,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "home-expertise.component.html",
               "DocumentMoniker": "E:\\Spade\\src\\app\\ui\\pages\\home\\home-expertise\\home-expertise.component.html",
               "RelativeDocumentMoniker": "src\\app\\ui\\pages\\home\\home-expertise\\home-expertise.component.html",
@@ -134,20 +207,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "main-container.component.html",
-              "DocumentMoniker": "E:\\Spade\\src\\app\\ui\\container\\main-container\\main-container.component.html",
-              "RelativeDocumentMoniker": "src\\app\\ui\\container\\main-container\\main-container.component.html",
-              "ToolTip": "E:\\Spade\\src\\app\\ui\\container\\main-container\\main-container.component.html",
-              "RelativeToolTip": "src\\app\\ui\\container\\main-container\\main-container.component.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-01-28T09:53:48.008Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "home-expertise.component.ts",
               "DocumentMoniker": "E:\\Spade\\src\\app\\ui\\pages\\home\\home-expertise\\home-expertise.component.ts",
               "RelativeDocumentMoniker": "src\\app\\ui\\pages\\home\\home-expertise\\home-expertise.component.ts",
@@ -160,7 +220,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "polyfills.ea32b2f550b3d600.js",
               "DocumentMoniker": "E:\\Spade\\docs\\polyfills.ea32b2f550b3d600.js",
               "RelativeDocumentMoniker": "docs\\polyfills.ea32b2f550b3d600.js",
@@ -173,20 +233,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "main.b8dccf508050a08c.js",
-              "DocumentMoniker": "E:\\Spade\\docs\\main.b8dccf508050a08c.js",
-              "RelativeDocumentMoniker": "docs\\main.b8dccf508050a08c.js",
-              "ToolTip": "E:\\Spade\\docs\\main.b8dccf508050a08c.js",
-              "RelativeToolTip": "docs\\main.b8dccf508050a08c.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAABEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-01-28T08:46:44.558Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "index.html",
               "DocumentMoniker": "E:\\Spade\\docs\\index.html",
               "RelativeDocumentMoniker": "docs\\index.html",
@@ -199,7 +246,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "508.d7dc968ef08a4bf7.js",
               "DocumentMoniker": "E:\\Spade\\docs\\508.d7dc968ef08a4bf7.js",
               "RelativeDocumentMoniker": "docs\\508.d7dc968ef08a4bf7.js",
@@ -212,20 +259,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "angular.json",
-              "DocumentMoniker": "E:\\Spade\\angular.json",
-              "RelativeDocumentMoniker": "angular.json",
-              "ToolTip": "E:\\Spade\\angular.json",
-              "RelativeToolTip": "angular.json",
-              "ViewState": "AgIAAFEAAAAAAAAAAAASwF8AAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-28T10:17:24.128Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "index.html",
               "DocumentMoniker": "E:\\Spade\\src\\index.html",
               "RelativeDocumentMoniker": "src\\index.html",
@@ -238,7 +272,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "974.2ffcd82f2459c534.js",
               "DocumentMoniker": "E:\\Spade\\docs\\974.2ffcd82f2459c534.js",
               "RelativeDocumentMoniker": "docs\\974.2ffcd82f2459c534.js",
@@ -251,7 +285,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "taru-privacy.component.html",
               "DocumentMoniker": "E:\\Spade\\src\\app\\ui\\pages\\documents\\taru\\taru-privacy\\taru-privacy.component.html",
               "RelativeDocumentMoniker": "src\\app\\ui\\pages\\documents\\taru\\taru-privacy\\taru-privacy.component.html",
@@ -264,7 +298,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "859.6b0c2b2b0ca828e5.js",
               "DocumentMoniker": "E:\\Spade\\docs\\859.6b0c2b2b0ca828e5.js",
               "RelativeDocumentMoniker": "docs\\859.6b0c2b2b0ca828e5.js",
@@ -277,7 +311,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "runtime.3db3e1d31f9d7637.js",
               "DocumentMoniker": "E:\\Spade\\docs\\runtime.3db3e1d31f9d7637.js",
               "RelativeDocumentMoniker": "docs\\runtime.3db3e1d31f9d7637.js",
@@ -290,7 +324,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 18,
               "Title": "837.89adba33a9399645.js",
               "DocumentMoniker": "E:\\Spade\\docs\\837.89adba33a9399645.js",
               "RelativeDocumentMoniker": "docs\\837.89adba33a9399645.js",

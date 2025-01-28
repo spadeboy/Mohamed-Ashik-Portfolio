@@ -14,7 +14,20 @@ import { ENTER_FORM_TOP } from '../../animations/transitions/transitions.constan
   ]
 })
 export class MainContainerComponent implements OnInit {
+  isDarkMode = false;
 
+  toggleDarkMode() {
+    this.isDarkMode = !this.isDarkMode;
+    const body = document.body;
+
+    if (this.isDarkMode) {
+      body.classList.add('dark-mode');
+      localStorage.setItem('theme', 'dark');
+    } else {
+      body.classList.remove('dark-mode');
+      localStorage.setItem('theme', 'light');
+    }
+  }
 
 
     private _scrollTargetSubscription: Subscription | null = null;
@@ -30,7 +43,12 @@ export class MainContainerComponent implements OnInit {
       public dialog: MatDialog
       ) { }
   
-    ngOnInit(): void {
+  ngOnInit(): void {
+    const savedTheme = localStorage.getItem('theme');
+    if (savedTheme === 'dark') {
+      this.isDarkMode = true;
+      document.body.classList.add('dark-mode');
+    }
     }
     ngAfterViewInit(): void {
       //Called after ngAfterContentInit when the component's view has been initialized. Applies to components only.

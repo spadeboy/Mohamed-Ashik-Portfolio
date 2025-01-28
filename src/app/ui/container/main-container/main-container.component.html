@@ -40,19 +40,14 @@
         </mat-toolbar-row>
 
         <mat-toolbar-row fxLayoutAlign="end center">
-            <ng-container>
-                <div fxLayout="row">
-
-                    <!-- <div  class="menu-option" (click)="_openNavigation()">
-                        <span class="big-block tb-theme-bg--secondary"></span>
-                        <span class="thin-block tb-theme-bg--primary"></span>
-                    </div> -->
-                    <div class="tb-width--16"></div>
-                    <!-- <button mat-button color="primary" (click)="_openNavigation()">
-                        <span class="tb-typo--button">Login</span>
-                    </button> -->
-                </div>
-            </ng-container>
+          <ng-container>
+            <div fxLayout="row" fxLayoutAlign="end center">
+              <!-- Add Dark Mode Toggle Button -->
+              <button (click)="toggleDarkMode()" class="theme-toggle">
+                <mat-icon>{{ isDarkMode ? 'light_mode' : 'dark_mode' }}</mat-icon>
+              </button>
+            </div>
+          </ng-container>
         </mat-toolbar-row>
 
     </mat-toolbar>
