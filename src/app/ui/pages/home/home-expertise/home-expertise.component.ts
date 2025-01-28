@@ -262,7 +262,7 @@ export class HomeExpertiseComponent implements OnInit {
     {
       "id": "8109",
       "name": "DOTNET",
-      "logo": "assets/img/tools/.net.svg",
+      "logo": "assets/img/tools/.net.png",
       "link": "https://dotnet.microsoft.com/en-us/download/dotnet-framework",
       "tab": "web",
     },
