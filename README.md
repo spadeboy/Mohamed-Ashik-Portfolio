@@ -16,9 +16,8 @@
 
 ## Sections 📚
 ✔️ About\
-✔️ ShowCases : Clients Projects, Icons, Logos \
 ✔️ Expertise \
-✔️ Tech Stack \
+✔️ Tech Tools \
 ✔️ Contact \
 
 ## Running Locally
