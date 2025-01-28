@@ -205,23 +205,23 @@ export class HomeExpertiseComponent implements OnInit {
 
     // web
 
-    
 
-    //{
-    //  "id": "8102",
-    //  "name": "Polymer",
-    //  "logo": "assets/img/tools/polymer.svg",
-    //  "link": "https://www.polymer-project.org/",
-    //  "tab": "web"
-    //},
 
-    //{
-    //  "id": "8103",
-    //  "name": "WebComponents",
-    //  "logo": "assets/img/tools/web-component-logo.png",
-    //  "link": "https://www.webcomponents.org/",
-    //  "tab": "web"
-    //},
+    {
+      "id": "8102",
+      "name": "VirtualBox",
+      "logo": "assets/img/tools/vb.png",
+      "link": "https://www.virtualbox.org/wiki/Downloads",
+      "tab": "web"
+    },
+
+    {
+      "id": "8103",
+      "name": "VMWare",
+      "logo": "assets/img/tools/vm.jpeg",
+      "link": "https://blogs.vmware.com/workstation/2024/05/vmware-workstation-pro-now-available-free-for-personal-use.html",
+      "tab": "web"
+    },
     //{
     //  "id": "8105",
     //  "name": "HighCharts js",
@@ -261,7 +261,7 @@ export class HomeExpertiseComponent implements OnInit {
     },
     {
       "id": "8109",
-      "name": "DOTNET",
+      "name": "dotNet",
       "logo": "assets/img/tools/.net.png",
       "link": "https://dotnet.microsoft.com/en-us/download/dotnet-framework",
       "tab": "web",
