@@ -1,0 +1,17 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\app",
+    "\\src\\app\\ui",
+    "\\src\\app\\ui\\common",
+    "\\src\\app\\ui\\common\\progress",
+    "\\src\\app\\ui\\pages",
+    "\\src\\app\\ui\\pages\\home",
+    "\\src\\app\\ui\\pages\\home\\home-expertise",
+    "\\src\\app\\ui\\pages\\home\\home-expertise\\expertise-item",
+    "\\src\\app\\ui\\utils"
+  ],
+  "SelectedNode": "\\.angular",
+  "PreviewInSolutionExplorer": false
+}
