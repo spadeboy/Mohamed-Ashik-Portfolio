@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "E:\\Spade\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Spade\\docs\\polyfills.ea32b2f550b3d600.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:docs\\polyfills.ea32b2f550b3d600.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Spade\\docs\\main.b8dccf508050a08c.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:docs\\main.b8dccf508050a08c.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Spade\\package-lock.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:package-lock.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
@@ -51,14 +59,6 @@
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:docs\\runtime.3db3e1d31f9d7637.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Spade\\docs\\polyfills.ea32b2f550b3d600.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:docs\\polyfills.ea32b2f550b3d600.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Spade\\docs\\main.b8dccf508050a08c.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:docs\\main.b8dccf508050a08c.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Spade\\docs\\859.6b0c2b2b0ca828e5.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:docs\\859.6b0c2b2b0ca828e5.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
@@ -74,24 +74,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "package-lock.json",
               "DocumentMoniker": "E:\\Spade\\package-lock.json",
               "RelativeDocumentMoniker": "package-lock.json",
               "ToolTip": "E:\\Spade\\package-lock.json",
               "RelativeToolTip": "package-lock.json",
-              "ViewState": "AgIAADtkAAAAAAAAAAASwERkAAAzAAAAAAAAAA==",
+              "ViewState": "AgIAABpkAAAAAAAAAAASwCdkAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-01-28T10:23:16.06Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "index.html",
               "DocumentMoniker": "E:\\Spade\\src\\index.html",
               "RelativeDocumentMoniker": "src\\index.html",
@@ -104,7 +104,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "angular.json",
               "DocumentMoniker": "E:\\Spade\\angular.json",
               "RelativeDocumentMoniker": "angular.json",
@@ -117,7 +117,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "MA.svg",
               "DocumentMoniker": "E:\\Spade\\docs\\assets\\img\\logos\\MA.svg",
               "RelativeDocumentMoniker": "docs\\assets\\img\\logos\\MA.svg",
@@ -130,7 +130,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "home-expertise.component.html",
               "DocumentMoniker": "E:\\Spade\\src\\app\\ui\\pages\\home\\home-expertise\\home-expertise.component.html",
               "RelativeDocumentMoniker": "src\\app\\ui\\pages\\home\\home-expertise\\home-expertise.component.html",
@@ -143,7 +143,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "main-container.component.html",
               "DocumentMoniker": "E:\\Spade\\src\\app\\ui\\container\\main-container\\main-container.component.html",
               "RelativeDocumentMoniker": "src\\app\\ui\\container\\main-container\\main-container.component.html",
@@ -156,7 +156,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "home-expertise.component.ts",
               "DocumentMoniker": "E:\\Spade\\src\\app\\ui\\pages\\home\\home-expertise\\home-expertise.component.ts",
               "RelativeDocumentMoniker": "src\\app\\ui\\pages\\home\\home-expertise\\home-expertise.component.ts",
@@ -169,7 +169,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 0,
               "Title": "polyfills.ea32b2f550b3d600.js",
               "DocumentMoniker": "E:\\Spade\\docs\\polyfills.ea32b2f550b3d600.js",
               "RelativeDocumentMoniker": "docs\\polyfills.ea32b2f550b3d600.js",
@@ -177,11 +177,12 @@
               "RelativeToolTip": "docs\\polyfills.ea32b2f550b3d600.js",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-01-28T08:46:58.5Z"
+              "WhenOpened": "2025-01-28T08:46:58.5Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 1,
               "Title": "main.b8dccf508050a08c.js",
               "DocumentMoniker": "E:\\Spade\\docs\\main.b8dccf508050a08c.js",
               "RelativeDocumentMoniker": "docs\\main.b8dccf508050a08c.js",
@@ -189,11 +190,12 @@
               "RelativeToolTip": "docs\\main.b8dccf508050a08c.js",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-01-28T08:46:44.558Z"
+              "WhenOpened": "2025-01-28T08:46:44.558Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "index.html",
               "DocumentMoniker": "E:\\Spade\\docs\\index.html",
               "RelativeDocumentMoniker": "docs\\index.html",
@@ -206,7 +208,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "974.2ffcd82f2459c534.js",
               "DocumentMoniker": "E:\\Spade\\docs\\974.2ffcd82f2459c534.js",
               "RelativeDocumentMoniker": "docs\\974.2ffcd82f2459c534.js",
@@ -219,7 +221,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "508.d7dc968ef08a4bf7.js",
               "DocumentMoniker": "E:\\Spade\\docs\\508.d7dc968ef08a4bf7.js",
               "RelativeDocumentMoniker": "docs\\508.d7dc968ef08a4bf7.js",
@@ -232,7 +234,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "taru-privacy.component.html",
               "DocumentMoniker": "E:\\Spade\\src\\app\\ui\\pages\\documents\\taru\\taru-privacy\\taru-privacy.component.html",
               "RelativeDocumentMoniker": "src\\app\\ui\\pages\\documents\\taru\\taru-privacy\\taru-privacy.component.html",
@@ -253,11 +255,12 @@
               "RelativeToolTip": "docs\\859.6b0c2b2b0ca828e5.js",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-01-28T08:46:06.961Z"
+              "WhenOpened": "2025-01-28T08:46:06.961Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "runtime.3db3e1d31f9d7637.js",
               "DocumentMoniker": "E:\\Spade\\docs\\runtime.3db3e1d31f9d7637.js",
               "RelativeDocumentMoniker": "docs\\runtime.3db3e1d31f9d7637.js",
@@ -265,7 +268,8 @@
               "RelativeToolTip": "docs\\runtime.3db3e1d31f9d7637.js",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAACyAwAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-01-28T08:47:06.138Z"
+              "WhenOpened": "2025-01-28T08:47:06.138Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -277,7 +281,8 @@
               "RelativeToolTip": "docs\\837.89adba33a9399645.js",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-01-28T08:46:00.948Z"
+              "WhenOpened": "2025-01-28T08:46:00.948Z",
+              "EditorCaption": ""
             }
           ]
         }

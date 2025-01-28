@@ -3,6 +3,22 @@
   "WorkspaceRootPath": "E:\\Spade\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Spade\\src\\app\\ui\\pages\\home\\home-about\\home-about.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\ui\\pages\\home\\home-about\\home-about.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Spade\\docs\\508.d7dc968ef08a4bf7.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:docs\\508.d7dc968ef08a4bf7.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Spade\\docs\\polyfills.ea32b2f550b3d600.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:docs\\polyfills.ea32b2f550b3d600.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Spade\\docs\\main.b8dccf508050a08c.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:docs\\main.b8dccf508050a08c.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Spade\\package-lock.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:package-lock.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
@@ -27,10 +43,6 @@
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:docs\\assets\\img\\logos\\MA.svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Spade\\docs\\508.d7dc968ef08a4bf7.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:docs\\508.d7dc968ef08a4bf7.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Spade\\src\\app\\ui\\container\\main-container\\main-container.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\ui\\container\\main-container\\main-container.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -49,14 +61,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Spade\\docs\\runtime.3db3e1d31f9d7637.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:docs\\runtime.3db3e1d31f9d7637.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Spade\\docs\\polyfills.ea32b2f550b3d600.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:docs\\polyfills.ea32b2f550b3d600.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Spade\\docs\\main.b8dccf508050a08c.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:docs\\main.b8dccf508050a08c.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Spade\\docs\\859.6b0c2b2b0ca828e5.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
@@ -79,32 +83,136 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "home-about.component.html",
+              "DocumentMoniker": "E:\\Spade\\src\\app\\ui\\pages\\home\\home-about\\home-about.component.html",
+              "RelativeDocumentMoniker": "src\\app\\ui\\pages\\home\\home-about\\home-about.component.html",
+              "ToolTip": "E:\\Spade\\src\\app\\ui\\pages\\home\\home-about\\home-about.component.html",
+              "RelativeToolTip": "src\\app\\ui\\pages\\home\\home-about\\home-about.component.html",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAUwHEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-01-28T10:55:00.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "package-lock.json",
               "DocumentMoniker": "E:\\Spade\\package-lock.json",
               "RelativeDocumentMoniker": "package-lock.json",
               "ToolTip": "E:\\Spade\\package-lock.json",
               "RelativeToolTip": "package-lock.json",
-              "ViewState": "AgIAADtkAAAAAAAAAAASwERkAAAzAAAAAAAAAA==",
+              "ViewState": "AgIAABpkAAAAAAAAAAASwCdkAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-01-28T10:23:16.06Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "index.html",
-              "DocumentMoniker": "E:\\Spade\\src\\index.html",
-              "RelativeDocumentMoniker": "src\\index.html",
-              "ToolTip": "E:\\Spade\\src\\index.html",
-              "RelativeToolTip": "src\\index.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAACZAAAAAAAAAA==",
+              "DocumentIndex": 9,
+              "Title": "MA.svg",
+              "DocumentMoniker": "E:\\Spade\\docs\\assets\\img\\logos\\MA.svg",
+              "RelativeDocumentMoniker": "docs\\assets\\img\\logos\\MA.svg",
+              "ToolTip": "E:\\Spade\\docs\\assets\\img\\logos\\MA.svg",
+              "RelativeToolTip": "docs\\assets\\img\\logos\\MA.svg",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAATvSURBVEhLtZZrbFRFFMd/d193724ppYUt2NKHtCAPoYCAgiAIKiRKAMGGgJpoKIJfRIh\u002BMX4RY0KsIESIWBLU4gdqVURJNCiIiYQIbWmxIFCQllcLTbul3b37uHP8cLfbhaIhMZ5k7kwmM//fmTMzZy78nyYi2p19ANXV1duBNdhj6K3vbKeUHStWrFh7u8q/WHV1tdyr1dbWSlVVlezZs2f7nToAjjs7Uq3XQyWCUoIohRKFUgqlLCzL4sKFCyxduhSl1JqKiop\u002BkLsCkqEAQlELK1hL7PonWJcnYNYMpvtng9BvYxDzUnJsaWkplmWt2bp1622QfnuQvvoL1/opvlh86Ciwmpk3fC9j0k5iXD\u002BPisZxBl5COcbhcJpE/tzGwei7LFu2jFgsRiQSYdeuXfj9/h2rVq1a2w8w9PWvC4dkDqwoKRz8\u002BJOTspmZuYn7Yrvo/NXJUVlCI3NIHzaFl2cU4HJo3Pg0m9OFVbS0tBCJRIhGoxQUFHD16lXKyso0AFef\u002BDf5gYy0/U/MGlc8vyjINH0FaZ0HuXRsNvVj36bB9RDnW7u5\u002BMdlrnV08/YzY/EMn8/kyZMoKCggbIYxvAbZ2dlUVlYmnXaQCEtWxoDd82Y9OLL0gRbPLH0JaWcPcmz/LDZa77PneAZtLZ3kBdIZPb6QuqCDd75txF38AobPR25uLsUjisnJycHn8yX3JQnIyhr49Oj8QNGCojZXiWMl7voGTtYtILD8Oz5eXkL5omImpFm0NjaT7nEzJGcItW1hmhyTQAQQRFNJ0X6AAT7XosWTXZmPGGWaq\u002Bk0J2unU/LKAfKzfAAMS/fy4rRcOjpvMdDhxuFy4vL7\u002BLLmalII0RIwUKoP5gLIG6RPmZm12fB1HeX0pefZlLWOjo\u002BOEbOslNuqMHx\u002BTCcYbifidnPqyk0QQbC1e09M6gpcAKunHc/LVZ9rLQcncnj6e4z3BuxJ2B9bwAZZEQurB2JKYcUtFKAJaNigfgDpGTOzp2ObETyky74Z\u002B7UO52D55cAJTcVjtncCQiIPiaCUQhA0hIcLM9HEjk6vI/0BodaFzmvtzn3WumibleGJRq1brmhP\u002Bg\u002BvzyUWj9kC9jQk4a0NtEMiCWUbagfptk2WrvZHg2f0rh\u002BtpTfONbcLSvyB/PvY8FUjp64EiSuhJxqn8VoXr\u002B2tZ86WI8z\u002B4AhzPzxCVe2VpKCG1pdiUlcQatHGeAaqytq64DhPO4MG\u002BLy\u002BnKI8Il3dbDx0iRs3ghgeJ\u002BnpaRSOKmbKSAdtN7u41dTE4gnDEsuzxe8aImViZS6MvZq3vjugm/GfTtWpwpwR\u002Bf7sIQMoLBnN/YnTF41btNwMEmxtJ97RzuZnJ\u002BB0aH2B/wdzaA6\u002Bb/uMN5vLn2sbTv1TWueZmusNdZyuOcPvNWc50fAXp\u002BrP09RwjuDFZgbFeviotISigD95AJKU3ip1DzSXvKG5mX95C7I7460jlb6yA1ON1sMzcvxkhm/hvnmd4WIyNcvF\u002BsfyqVg5kbxMOx3climlD5QKuKtVVFQcFxGJREwxI6aYpimmGRYzHBYzHBIzHJZwOCThUEjC4R4JpdQiIuXl5UnCPz04kwE8Hh3do6PrOrruRfd60b0GuteL12vgNQy8Xh9GSp2Yn9Tq9\u002BAA7Ny5c7uIrOm9vUop\u002B5TcpZAQTG0DOzZs2HDvPwH/xf4Gb5LkTqfRE7EAAAAASUVORK5CYII=",
+              "WhenOpened": "2025-01-28T10:10:21.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "home-expertise.component.html",
+              "DocumentMoniker": "E:\\Spade\\src\\app\\ui\\pages\\home\\home-expertise\\home-expertise.component.html",
+              "RelativeDocumentMoniker": "src\\app\\ui\\pages\\home\\home-expertise\\home-expertise.component.html",
+              "ToolTip": "E:\\Spade\\src\\app\\ui\\pages\\home\\home-expertise\\home-expertise.component.html",
+              "RelativeToolTip": "src\\app\\ui\\pages\\home\\home-expertise\\home-expertise.component.html",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAkwB0AAABYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-01-28T10:17:55.477Z",
+              "WhenOpened": "2025-01-28T10:05:29.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "main-container.component.html",
+              "DocumentMoniker": "E:\\Spade\\src\\app\\ui\\container\\main-container\\main-container.component.html",
+              "RelativeDocumentMoniker": "src\\app\\ui\\container\\main-container\\main-container.component.html",
+              "ToolTip": "E:\\Spade\\src\\app\\ui\\container\\main-container\\main-container.component.html",
+              "RelativeToolTip": "src\\app\\ui\\container\\main-container\\main-container.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-01-28T09:53:48.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "home-expertise.component.ts",
+              "DocumentMoniker": "E:\\Spade\\src\\app\\ui\\pages\\home\\home-expertise\\home-expertise.component.ts",
+              "RelativeDocumentMoniker": "src\\app\\ui\\pages\\home\\home-expertise\\home-expertise.component.ts",
+              "ToolTip": "E:\\Spade\\src\\app\\ui\\pages\\home\\home-expertise\\home-expertise.component.ts",
+              "RelativeToolTip": "src\\app\\ui\\pages\\home\\home-expertise\\home-expertise.component.ts",
+              "ViewState": "AgIAAIUAAAAAAAAAAAAWwIkAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-01-28T08:53:28.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "polyfills.ea32b2f550b3d600.js",
+              "DocumentMoniker": "E:\\Spade\\docs\\polyfills.ea32b2f550b3d600.js",
+              "RelativeDocumentMoniker": "docs\\polyfills.ea32b2f550b3d600.js",
+              "ToolTip": "E:\\Spade\\docs\\polyfills.ea32b2f550b3d600.js",
+              "RelativeToolTip": "docs\\polyfills.ea32b2f550b3d600.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-01-28T08:46:58.5Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "main.b8dccf508050a08c.js",
+              "DocumentMoniker": "E:\\Spade\\docs\\main.b8dccf508050a08c.js",
+              "RelativeDocumentMoniker": "docs\\main.b8dccf508050a08c.js",
+              "ToolTip": "E:\\Spade\\docs\\main.b8dccf508050a08c.js",
+              "RelativeToolTip": "docs\\main.b8dccf508050a08c.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-01-28T08:46:44.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "index.html",
+              "DocumentMoniker": "E:\\Spade\\docs\\index.html",
+              "RelativeDocumentMoniker": "docs\\index.html",
+              "ToolTip": "E:\\Spade\\docs\\index.html",
+              "RelativeToolTip": "docs\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-01-28T08:46:19.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "508.d7dc968ef08a4bf7.js",
+              "DocumentMoniker": "E:\\Spade\\docs\\508.d7dc968ef08a4bf7.js",
+              "RelativeDocumentMoniker": "docs\\508.d7dc968ef08a4bf7.js",
+              "ToolTip": "E:\\Spade\\docs\\508.d7dc968ef08a4bf7.js",
+              "RelativeToolTip": "docs\\508.d7dc968ef08a4bf7.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAB7NQAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-01-28T08:45:53.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "angular.json",
               "DocumentMoniker": "E:\\Spade\\angular.json",
               "RelativeDocumentMoniker": "angular.json",
@@ -118,95 +226,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "MA.svg",
-              "DocumentMoniker": "E:\\Spade\\docs\\assets\\img\\logos\\MA.svg",
-              "RelativeDocumentMoniker": "docs\\assets\\img\\logos\\MA.svg",
-              "ToolTip": "E:\\Spade\\docs\\assets\\img\\logos\\MA.svg",
-              "RelativeToolTip": "docs\\assets\\img\\logos\\MA.svg",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
-              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAATvSURBVEhLtZZrbFRFFMd/d193724ppYUt2NKHtCAPoYCAgiAIKiRKAMGGgJpoKIJfRIh\u002BMX4RY0KsIESIWBLU4gdqVURJNCiIiYQIbWmxIFCQllcLTbul3b37uHP8cLfbhaIhMZ5k7kwmM//fmTMzZy78nyYi2p19ANXV1duBNdhj6K3vbKeUHStWrFh7u8q/WHV1tdyr1dbWSlVVlezZs2f7nToAjjs7Uq3XQyWCUoIohRKFUgqlLCzL4sKFCyxduhSl1JqKiop\u002BkLsCkqEAQlELK1hL7PonWJcnYNYMpvtng9BvYxDzUnJsaWkplmWt2bp1622QfnuQvvoL1/opvlh86Ciwmpk3fC9j0k5iXD\u002BPisZxBl5COcbhcJpE/tzGwei7LFu2jFgsRiQSYdeuXfj9/h2rVq1a2w8w9PWvC4dkDqwoKRz8\u002BJOTspmZuYn7Yrvo/NXJUVlCI3NIHzaFl2cU4HJo3Pg0m9OFVbS0tBCJRIhGoxQUFHD16lXKyso0AFef\u002BDf5gYy0/U/MGlc8vyjINH0FaZ0HuXRsNvVj36bB9RDnW7u5\u002BMdlrnV08/YzY/EMn8/kyZMoKCggbIYxvAbZ2dlUVlYmnXaQCEtWxoDd82Y9OLL0gRbPLH0JaWcPcmz/LDZa77PneAZtLZ3kBdIZPb6QuqCDd75txF38AobPR25uLsUjisnJycHn8yX3JQnIyhr49Oj8QNGCojZXiWMl7voGTtYtILD8Oz5eXkL5omImpFm0NjaT7nEzJGcItW1hmhyTQAQQRFNJ0X6AAT7XosWTXZmPGGWaq\u002Bk0J2unU/LKAfKzfAAMS/fy4rRcOjpvMdDhxuFy4vL7\u002BLLmalII0RIwUKoP5gLIG6RPmZm12fB1HeX0pefZlLWOjo\u002BOEbOslNuqMHx\u002BTCcYbifidnPqyk0QQbC1e09M6gpcAKunHc/LVZ9rLQcncnj6e4z3BuxJ2B9bwAZZEQurB2JKYcUtFKAJaNigfgDpGTOzp2ObETyky74Z\u002B7UO52D55cAJTcVjtncCQiIPiaCUQhA0hIcLM9HEjk6vI/0BodaFzmvtzn3WumibleGJRq1brmhP\u002Bg\u002BvzyUWj9kC9jQk4a0NtEMiCWUbagfptk2WrvZHg2f0rh\u002BtpTfONbcLSvyB/PvY8FUjp64EiSuhJxqn8VoXr\u002B2tZ86WI8z\u002B4AhzPzxCVe2VpKCG1pdiUlcQatHGeAaqytq64DhPO4MG\u002BLy\u002BnKI8Il3dbDx0iRs3ghgeJ\u002BnpaRSOKmbKSAdtN7u41dTE4gnDEsuzxe8aImViZS6MvZq3vjugm/GfTtWpwpwR\u002Bf7sIQMoLBnN/YnTF41btNwMEmxtJ97RzuZnJ\u002BB0aH2B/wdzaA6\u002Bb/uMN5vLn2sbTv1TWueZmusNdZyuOcPvNWc50fAXp\u002BrP09RwjuDFZgbFeviotISigD95AJKU3ip1DzSXvKG5mX95C7I7460jlb6yA1ON1sMzcvxkhm/hvnmd4WIyNcvF\u002BsfyqVg5kbxMOx3climlD5QKuKtVVFQcFxGJREwxI6aYpimmGRYzHBYzHBIzHJZwOCThUEjC4R4JpdQiIuXl5UnCPz04kwE8Hh3do6PrOrruRfd60b0GuteL12vgNQy8Xh9GSp2Yn9Tq9\u002BAA7Ny5c7uIrOm9vUop\u002B5TcpZAQTG0DOzZs2HDvPwH/xf4Gb5LkTqfRE7EAAAAASUVORK5CYII=",
-              "WhenOpened": "2025-01-28T10:10:21.29Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "home-expertise.component.html",
-              "DocumentMoniker": "E:\\Spade\\src\\app\\ui\\pages\\home\\home-expertise\\home-expertise.component.html",
-              "RelativeDocumentMoniker": "src\\app\\ui\\pages\\home\\home-expertise\\home-expertise.component.html",
-              "ToolTip": "E:\\Spade\\src\\app\\ui\\pages\\home\\home-expertise\\home-expertise.component.html",
-              "RelativeToolTip": "src\\app\\ui\\pages\\home\\home-expertise\\home-expertise.component.html",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAkwB0AAABYAAAAAAAAAA==",
+              "Title": "index.html",
+              "DocumentMoniker": "E:\\Spade\\src\\index.html",
+              "RelativeDocumentMoniker": "src\\index.html",
+              "ToolTip": "E:\\Spade\\src\\index.html",
+              "RelativeToolTip": "src\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAACZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-01-28T10:05:29.796Z",
+              "WhenOpened": "2025-01-28T10:17:55.477Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "main-container.component.html",
-              "DocumentMoniker": "E:\\Spade\\src\\app\\ui\\container\\main-container\\main-container.component.html",
-              "RelativeDocumentMoniker": "src\\app\\ui\\container\\main-container\\main-container.component.html",
-              "ToolTip": "E:\\Spade\\src\\app\\ui\\container\\main-container\\main-container.component.html",
-              "RelativeToolTip": "src\\app\\ui\\container\\main-container\\main-container.component.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-01-28T09:53:48.008Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "home-expertise.component.ts",
-              "DocumentMoniker": "E:\\Spade\\src\\app\\ui\\pages\\home\\home-expertise\\home-expertise.component.ts",
-              "RelativeDocumentMoniker": "src\\app\\ui\\pages\\home\\home-expertise\\home-expertise.component.ts",
-              "ToolTip": "E:\\Spade\\src\\app\\ui\\pages\\home\\home-expertise\\home-expertise.component.ts",
-              "RelativeToolTip": "src\\app\\ui\\pages\\home\\home-expertise\\home-expertise.component.ts",
-              "ViewState": "AgIAAIUAAAAAAAAAAAAWwIkAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-01-28T08:53:28.355Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "polyfills.ea32b2f550b3d600.js",
-              "DocumentMoniker": "E:\\Spade\\docs\\polyfills.ea32b2f550b3d600.js",
-              "RelativeDocumentMoniker": "docs\\polyfills.ea32b2f550b3d600.js",
-              "ToolTip": "E:\\Spade\\docs\\polyfills.ea32b2f550b3d600.js",
-              "RelativeToolTip": "docs\\polyfills.ea32b2f550b3d600.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAABFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-01-28T08:46:58.5Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
-              "Title": "main.b8dccf508050a08c.js",
-              "DocumentMoniker": "E:\\Spade\\docs\\main.b8dccf508050a08c.js",
-              "RelativeDocumentMoniker": "docs\\main.b8dccf508050a08c.js",
-              "ToolTip": "E:\\Spade\\docs\\main.b8dccf508050a08c.js",
-              "RelativeToolTip": "docs\\main.b8dccf508050a08c.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAABEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-01-28T08:46:44.558Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "index.html",
-              "DocumentMoniker": "E:\\Spade\\docs\\index.html",
-              "RelativeDocumentMoniker": "docs\\index.html",
-              "ToolTip": "E:\\Spade\\docs\\index.html",
-              "RelativeToolTip": "docs\\index.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-01-28T08:46:19.762Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
               "Title": "974.2ffcd82f2459c534.js",
               "DocumentMoniker": "E:\\Spade\\docs\\974.2ffcd82f2459c534.js",
               "RelativeDocumentMoniker": "docs\\974.2ffcd82f2459c534.js",
@@ -219,20 +251,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "508.d7dc968ef08a4bf7.js",
-              "DocumentMoniker": "E:\\Spade\\docs\\508.d7dc968ef08a4bf7.js",
-              "RelativeDocumentMoniker": "docs\\508.d7dc968ef08a4bf7.js",
-              "ToolTip": "E:\\Spade\\docs\\508.d7dc968ef08a4bf7.js",
-              "RelativeToolTip": "docs\\508.d7dc968ef08a4bf7.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAA1EQAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-01-28T08:45:53.433Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "taru-privacy.component.html",
               "DocumentMoniker": "E:\\Spade\\src\\app\\ui\\pages\\documents\\taru\\taru-privacy\\taru-privacy.component.html",
               "RelativeDocumentMoniker": "src\\app\\ui\\pages\\documents\\taru\\taru-privacy\\taru-privacy.component.html",
@@ -245,7 +264,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "859.6b0c2b2b0ca828e5.js",
               "DocumentMoniker": "E:\\Spade\\docs\\859.6b0c2b2b0ca828e5.js",
               "RelativeDocumentMoniker": "docs\\859.6b0c2b2b0ca828e5.js",
@@ -253,11 +272,12 @@
               "RelativeToolTip": "docs\\859.6b0c2b2b0ca828e5.js",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-01-28T08:46:06.961Z"
+              "WhenOpened": "2025-01-28T08:46:06.961Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "runtime.3db3e1d31f9d7637.js",
               "DocumentMoniker": "E:\\Spade\\docs\\runtime.3db3e1d31f9d7637.js",
               "RelativeDocumentMoniker": "docs\\runtime.3db3e1d31f9d7637.js",
@@ -265,11 +285,12 @@
               "RelativeToolTip": "docs\\runtime.3db3e1d31f9d7637.js",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAACyAwAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-01-28T08:47:06.138Z"
+              "WhenOpened": "2025-01-28T08:47:06.138Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "837.89adba33a9399645.js",
               "DocumentMoniker": "E:\\Spade\\docs\\837.89adba33a9399645.js",
               "RelativeDocumentMoniker": "docs\\837.89adba33a9399645.js",
@@ -277,7 +298,8 @@
               "RelativeToolTip": "docs\\837.89adba33a9399645.js",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-01-28T08:46:00.948Z"
+              "WhenOpened": "2025-01-28T08:46:00.948Z",
+              "EditorCaption": ""
             }
           ]
         }
