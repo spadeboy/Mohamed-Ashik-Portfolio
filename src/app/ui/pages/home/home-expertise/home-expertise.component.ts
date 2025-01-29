@@ -270,7 +270,6 @@ export class HomeExpertiseComponent implements OnInit {
       "logo": "assets/img/tools/.net.png",
       "link": "https://dotnet.microsoft.com/en-us/download/dotnet-framework",
       "tab": "web",
-      "color":"#512BD4"
     },
 
     // backend
