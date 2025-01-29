@@ -283,21 +283,32 @@ export class HomeExpertiseComponent implements OnInit {
       "tab": "back-end",
       "color":"#A91D22"
     },
-    //{
-    //  "id": "7122",
-    //  "name": "Sequelize",
-    //  "logo": "assets/img/tools/sequelize.png",
-    //  "link": "http://docs.sequelizejs.com/",
-    //  "tab": "back-end"
-    //},
+    {
+      "id": "7122",
+      "name": "Power Automate",
+      "logo": "assets/img/tools/pa.png",
+      "link": "http://docs.sequelizejs.com/",
+      "tab": "back-end",
+      "color": "#0061F2"
+    },
 
-    //{
-    //  "id": "7126",
-    //  "name": "NodeJs",
-    //  "logo": "assets/img/tools/nodejs.png",
-    //  "link": "https://nodejs.org/en/",
-    //  "tab": "back-end"
-    //},
+    {
+      "id": "7126",
+      "name": "Dataverse",
+      "logo": "assets/img/tools/dv.jpeg",
+      "link": "https://nodejs.org/en/",
+      "tab": "back-end",
+      "color": "#1D4A75"
+    },
+
+    {
+      "id": "7126",
+      "name": "Sharepoint",
+      "logo": "assets/img/tools/sp.png",
+      "link": "https://nodejs.org/en/",
+      "tab": "back-end",
+      "color": "#0078D4"
+    },
 
     // cloud
 
@@ -318,13 +329,13 @@ export class HomeExpertiseComponent implements OnInit {
       "color":"#0078D4"
     },
 
-    //{
-    //  "id": "6124",
-    //  "name": "Google cloud",
-    //  "logo": "assets/img/tools/google-cloud.png",
-    //  "link": "https://cloud.google.com/",
-    //  "tab": "cloud"
-    //},
+    {
+      "id": "6124",
+      "name": "google cloud",
+      "logo": "assets/img/tools/google-cloud.png",
+      "link": "https://cloud.google.com/",
+      "tab": "cloud"
+    },
 
 
   ]
