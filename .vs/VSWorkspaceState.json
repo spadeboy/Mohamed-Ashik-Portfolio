@@ -1,7 +1,14 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\docs",
+    "\\src",
+    "\\src\\app",
+    "\\src\\assets",
+    "\\src\\assets\\svg",
+    "\\src\\environments",
+    "\\src\\styles"
   ],
-  "SelectedNode": "\\.angular",
+  "SelectedNode": "\\README.md",
   "PreviewInSolutionExplorer": false
 }
