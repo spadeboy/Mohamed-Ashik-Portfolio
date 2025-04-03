@@ -13,7 +13,7 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 1669,
+          "DockedWidth": 200,
           "SelectedChildIndex": 0,
           "Children": [
             {
@@ -24,14 +24,10 @@
               "RelativeDocumentMoniker": "src\\app\\ui\\pages\\home\\home-about\\home-about.component.html",
               "ToolTip": "E:\\Spade\\src\\app\\ui\\pages\\home\\home-about\\home-about.component.html",
               "RelativeToolTip": "src\\app\\ui\\pages\\home\\home-about\\home-about.component.html",
-              "ViewState": "AgIAAFYAAAAAAAAAAAAvwGMAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAvwG0AAACHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2025-03-16T10:43:23.487Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
             },
             {
               "$type": "Bookmark",
