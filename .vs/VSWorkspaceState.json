@@ -1,13 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\docs",
     "\\src",
-    "\\src\\app",
-    "\\src\\assets",
-    "\\src\\assets\\svg",
-    "\\src\\environments",
-    "\\src\\styles"
+    "\\src\\app"
   ],
+  "SelectedNode": "\\src\\app\\ui\\pages\\home\\home-about\\home-about.component.scss",
   "PreviewInSolutionExplorer": false
 }
