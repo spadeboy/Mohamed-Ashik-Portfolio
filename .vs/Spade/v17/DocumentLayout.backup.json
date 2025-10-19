@@ -60,7 +60,7 @@
               "RelativeDocumentMoniker": "src\\app\\ui\\pages\\home\\home-about\\home-about.component.html",
               "ToolTip": "E:\\Spade\\src\\app\\ui\\pages\\home\\home-about\\home-about.component.html",
               "RelativeToolTip": "src\\app\\ui\\pages\\home\\home-about\\home-about.component.html",
-              "ViewState": "AgIAABcAAAAAAAAAAADgvzAAAABKAAAAAAAAAA==",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAiwG0AAACFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2025-04-18T15:10:06.444Z",
               "EditorCaption": ""
@@ -76,6 +76,10 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2025-04-18T15:04:02.936Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
             }
           ]
         }
